@@ -88,21 +88,21 @@ body{
 
 ::-webkit-scrollbar-thumb {
   cursor: pointer;
-  background: #DF5353;
+  background: #902C91;
 }
 
 ::selection{
-  background-color:#DF5353;
+  background-color:#902C91;
   color:#fff;
 }
 
 -webkit-::selection{
-    background-color:#DF5353;
+    background-color:#902C91;
     color:#fff;
 }
 
 ::-moz-selection{
-    background-color:#DF5353;
+    background-color:#902C91;
     color:#fff;
 }
 
@@ -226,7 +226,7 @@ blockquote{
   padding: 0;
   width: 80%;
   padding-left: 6.8rem;
-  border-left: 0.3rem solid #DF5353;
+  border-left: 0.3rem solid #902C91;
   margin-top: 5rem;
   color:#fff;
 }
@@ -240,14 +240,14 @@ cite{
 }
 
 a {
-  color:#DF5353;
+  color:#902C91;
   -webkit-transition: color .3s ease-out;
        -o-transition: color .3s ease-out;
           transition: color .3s ease-out;
 }
 
 a:hover {
-  color:#DF5353;
+  color:#902C91;
   outline: none;
 }
 
@@ -303,7 +303,7 @@ input[type='email']:focus,
 input[type="search"]:focus,
 input[type="tel"]:focus,
 textarea:focus{
-  border-color: #DF5353;
+  border-color: #902C91;
   outline: 0;
   color: #fff;
 }
@@ -358,7 +358,7 @@ label.error{
   border:0;
   border-radius: 0;
   padding: 1.1em 2.28em 1em;
-  background-color: #DF5353;
+  background-color: #902C91;
   text-decoration: none;
   -webkit-transition: all .3s ease-out!important;
           transition: all .3s ease-out!important;
@@ -407,8 +407,8 @@ ion-icon {
 }
 
 .ion-ios-play:hover{
-  color: #DF5353;
-  border: 1px solid #DF5353;
+  color: #902C91;
+  border: 1px solid #902C91;
 }
 
 .ion-ios-play:after {
@@ -467,7 +467,7 @@ ion-icon {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #DF5353;
+  background-color: #902C91;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -513,7 +513,7 @@ ion-icon {
 }
 
 .text-primary{
-  color:#DF5353!important;
+  color:#902C91!important;
 }
 
 .masked{
@@ -664,7 +664,7 @@ a.brand:focus{
 }
 
 .navbar-toggle:hover .icon-bar{
-  background-color:  #DF5353;
+  background-color:  #902C91;
 }
 
 .navbar .social-list{
@@ -699,7 +699,7 @@ a.brand:focus{
 }
 
 .social-list a:hover{
-  color:#DF5353;
+  color:#902C91;
   text-decoration: none;
 }
 
@@ -800,7 +800,7 @@ a.brand:focus{
 }
 
 .close-menu:hover{
-  color: #DF5353;
+  color: #902C91;
 }
 
 .menu-list{
@@ -895,7 +895,7 @@ a.brand:focus{
 }
 
 .menu-footer .social-list a:hover{
-  color:#DF5353;
+  color:#902C91;
 }
 
 .menu-footer .copy{
@@ -1041,7 +1041,7 @@ a.brand:focus{
 #pp-nav .pp-nav-down:hover,
 #pp-nav.white .pp-nav-up:hover,
 #pp-nav.white .pp-nav-down:hover{
-  color: #DF5353;
+  color: #902C91;
 }
 
 #pp-nav.white .pp-nav-up,
@@ -1060,7 +1060,7 @@ a.brand:focus{
 
 #pp-nav li .active span, .pp-slidesNav .active span{
   opacity: 1;
-  background: #DF5353;
+  background: #902C91;
   transform:scale(1.6);
 }
 
@@ -1274,7 +1274,7 @@ a.brand:focus{
 
 .icon-specialization{
   font-size:5rem;
-  color:#DF5353;
+  color:#902C91;
 }
 
 .row-specialization{
@@ -1331,7 +1331,7 @@ a.brand:focus{
 }
 
 .col-resume:hover{
-  background: #DF5353;
+  background: #902C91;
 }
 
 .resume-type{
@@ -1473,7 +1473,7 @@ a.brand:focus{
 }
 
 .progress-bar{
-  background-color:#DF5353;
+  background-color:#902C91;
   height: 100%;
 }
 
@@ -1640,7 +1640,7 @@ a.brand:focus{
 
 
 .view-all a:hover{
-  color:#DF5353;
+  color:#902C91;
   text-decoration: none;
 }
 
@@ -1888,7 +1888,7 @@ a.brand:focus{
 }
 
 .owl-dot.active span{
-  background: #DF5353;
+  background: #902C91;
   transform:scale(1.4);
 }
 
